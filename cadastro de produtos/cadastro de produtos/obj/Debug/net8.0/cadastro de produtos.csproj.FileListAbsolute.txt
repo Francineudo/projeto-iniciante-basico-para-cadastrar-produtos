@@ -1,0 +1,14 @@
+C:\Users\Samsung\OneDrive\curso de c#\material de apoio classes, atributos, metodos e membros estatiticos\Course8\cadastro de produtos\cadastro de produtos\bin\Debug\net8.0\cadastro de produtos.exe
+C:\Users\Samsung\OneDrive\curso de c#\material de apoio classes, atributos, metodos e membros estatiticos\Course8\cadastro de produtos\cadastro de produtos\bin\Debug\net8.0\cadastro de produtos.deps.json
+C:\Users\Samsung\OneDrive\curso de c#\material de apoio classes, atributos, metodos e membros estatiticos\Course8\cadastro de produtos\cadastro de produtos\bin\Debug\net8.0\cadastro de produtos.runtimeconfig.json
+C:\Users\Samsung\OneDrive\curso de c#\material de apoio classes, atributos, metodos e membros estatiticos\Course8\cadastro de produtos\cadastro de produtos\bin\Debug\net8.0\cadastro de produtos.dll
+C:\Users\Samsung\OneDrive\curso de c#\material de apoio classes, atributos, metodos e membros estatiticos\Course8\cadastro de produtos\cadastro de produtos\bin\Debug\net8.0\cadastro de produtos.pdb
+C:\Users\Samsung\OneDrive\curso de c#\material de apoio classes, atributos, metodos e membros estatiticos\Course8\cadastro de produtos\cadastro de produtos\obj\Debug\net8.0\cadastro de produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\OneDrive\curso de c#\material de apoio classes, atributos, metodos e membros estatiticos\Course8\cadastro de produtos\cadastro de produtos\obj\Debug\net8.0\cadastro de produtos.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\curso de c#\material de apoio classes, atributos, metodos e membros estatiticos\Course8\cadastro de produtos\cadastro de produtos\obj\Debug\net8.0\cadastro de produtos.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\curso de c#\material de apoio classes, atributos, metodos e membros estatiticos\Course8\cadastro de produtos\cadastro de produtos\obj\Debug\net8.0\cadastro de produtos.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\curso de c#\material de apoio classes, atributos, metodos e membros estatiticos\Course8\cadastro de produtos\cadastro de produtos\obj\Debug\net8.0\cadastro de produtos.dll
+C:\Users\Samsung\OneDrive\curso de c#\material de apoio classes, atributos, metodos e membros estatiticos\Course8\cadastro de produtos\cadastro de produtos\obj\Debug\net8.0\refint\cadastro de produtos.dll
+C:\Users\Samsung\OneDrive\curso de c#\material de apoio classes, atributos, metodos e membros estatiticos\Course8\cadastro de produtos\cadastro de produtos\obj\Debug\net8.0\cadastro de produtos.pdb
+C:\Users\Samsung\OneDrive\curso de c#\material de apoio classes, atributos, metodos e membros estatiticos\Course8\cadastro de produtos\cadastro de produtos\obj\Debug\net8.0\cadastro de produtos.genruntimeconfig.cache
+C:\Users\Samsung\OneDrive\curso de c#\material de apoio classes, atributos, metodos e membros estatiticos\Course8\cadastro de produtos\cadastro de produtos\obj\Debug\net8.0\ref\cadastro de produtos.dll
